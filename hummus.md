@@ -1,4 +1,7 @@
-# Equipment 
+# Hummus Recipe
+![Hummus](hummus.jpg)
+
+## Equipment 
 - KitchenAid KFC3516 Food Chopper
 - OXO Good Grips 1241581 Jar Spatula
 - Colander
@@ -6,7 +9,7 @@
 - Measuring cup 250mL
 - Shallow bowl 
 
-# Ingredients
+## Ingredients
 - 400g Chick Peas canned (Edgell)
 - 50mL sesame seeds
 - 50mL Olive oil
@@ -16,7 +19,7 @@
 - 1 tiny spoon cumin 
 - Sumac for garnishing
 
-# Preparation
+## Preparation
 1. Drain chicken peas using the colander. Rinse off canned water
 2. Place 10 chicken peas into a separate bowl for garnishing
 3. Pour chicken peas into the food processor
@@ -25,14 +28,14 @@
 6. Place olive oil, water, lemon juice, garlic and cumin into the food processor
 7. Run the food processor till hummus has smooth consistency
 
-# Garnishing
+## Garnishing
 1. Scoop out hummus into shallow bowl using the spatula
 2. Using a small spoon swoosh hummus into a spiral pattern
 3. Place the separated chicken peas on top
 4. Sprinkle sumac 
 5. Pour a dash of olive oil 
 
-# Further work 
+## Further work 
 - Measure exact cumin amount
 - Convert volume to mass
 - Perhaps slightly more water?
