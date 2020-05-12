@@ -31,7 +31,7 @@
 
 ## Garnishing
 1. Scoop out hummus into shallow bowl using the spatula
-2. Using a small spoon swoosh hummus into a spiral pattern
+2. Using a teaspoon swoosh hummus into a spiral pattern
 3. Place the separated chicken peas on top
 4. Sprinkle sumac 
 5. Pour a dash of olive oil 
@@ -40,5 +40,5 @@
 - Measure exact cumin amount
 - Convert volume to mass
 - Perhaps slightly more water?
-- Add photo 
-- Serve with boiled egg?
+- Garnishing can be better
+- Better food photography
