@@ -16,7 +16,7 @@
 - 40mL water 
 - 40mL lemon juice (with seeds removed)
 - 2 cloves garlic
-- 1 tiny spoon cumin 
+- 1 tsp cumin 
 - Sumac for garnishing
 
 ## Preparation
