@@ -21,7 +21,7 @@
 
 ## Preparation
 1. Drain chicken peas using the colander. Rinse off canned water
-2. Place 10 chicken peas into a separate bowl for garnishing
+2. Place some chicken peas into a separate bowl for garnishing
 3. Pour chicken peas into the food processor
 4. Lightly roast sesame seeds in non-stick pan till golden brown
 5. Pour sesame seeds into food processor
