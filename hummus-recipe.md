@@ -1,6 +1,6 @@
 # Hummus Recipe
 
-<img src="hummus.jpg" width="300"/>
+<img src="hummus.jpg" width="360"/>
 
 ## Equipment 
 - KitchenAid KFC3516 Food Chopper
