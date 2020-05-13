@@ -17,8 +17,8 @@
 - 40mL water 
 - 40mL lemon juice (with seeds removed)
 - 2 cloves garlic
-- 1 tsp cumin 
-- Sumac for garnishing
+- 1 tsp cumin, or to taste
+- 1 tbsp sumac, or to taste 
 
 ## Preparation
 1. Drain chicken peas using the colander. Rinse off canned water
