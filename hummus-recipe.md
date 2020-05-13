@@ -3,17 +3,17 @@
 <img src="hummus.jpg" width="360"/>
 
 ## Equipment 
-- KitchenAid KFC3516 Food Chopper
-- OXO Good Grips 1241581 Jar Spatula
+- KitchenAid KFC3516 food chopper
+- OXO Good Grips 1241581 jar spatula
 - Colander
 - Non-stick pan
 - Measuring cup 250mL
 - Shallow bowl 
 
 ## Ingredients
-- 400g Chick Peas canned (Edgell)
+- 400g canned chick peas (Edgell)
 - 50mL sesame seeds
-- 50mL Olive oil
+- 50mL olive oil
 - 40mL water 
 - 40mL lemon juice (with seeds removed)
 - 2 cloves garlic
