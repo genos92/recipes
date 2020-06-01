@@ -12,7 +12,7 @@
 
 ## Ingredients
 - 400g canned chick peas (Edgell)
-- 50mL sesame seeds
+- 30g sesame seeds
 - 50mL olive oil
 - 50mL water 
 - 40mL freshly squeezed lemon juice (with seeds removed)
