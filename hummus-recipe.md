@@ -14,10 +14,10 @@
 - 400g canned chick peas (Edgell)
 - 50mL sesame seeds
 - 50mL olive oil
-- 40mL water 
-- 40mL lemon juice (with seeds removed)
-- 2 cloves garlic
-- 1 tsp cumin, or to taste
+- 50mL water 
+- 40mL freshly squeezed lemon juice (with seeds removed)
+- ~10g garlic cloves
+- ~1.5g cumin
 - 1 tbsp sumac, or to taste 
 
 ## Preparation
