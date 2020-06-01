@@ -16,8 +16,8 @@
 - 50mL olive oil
 - 50mL water 
 - 40mL freshly squeezed lemon juice (with seeds removed)
-- ~10g garlic cloves
-- ~1.5g cumin
+- 10g garlic cloves
+- 1.5g ground cumin
 - 1 tbsp sumac, or to taste 
 
 ## Preparation
