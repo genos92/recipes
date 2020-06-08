@@ -6,7 +6,7 @@
 - KitchenAid KFC3516 food chopper
 - OXO Good Grips 1241581 jar spatula
 - Colander
-- Non-stick pan
+- Non-stick pan / skillet
 - Measuring cup 250mL
 - Shallow bowl 
 
@@ -35,10 +35,8 @@
 3. Place the separated chicken peas on top
 4. Sprinkle sumac 
 5. Pour a dash of olive oil 
+6. Finish with a leaf or two of parsley 
 
 ## Further work 
-- Measure exact cumin amount
-- Convert volume to mass
-- Perhaps slightly more water?
 - Garnishing can be better
 - Better food photography
