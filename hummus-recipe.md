@@ -11,7 +11,7 @@
 - Shallow bowl 
 
 ## Ingredients
-- 400g canned chick peas (Edgell)
+- 400g canned chick peas (Edgell) OR 250g chick peas drained
 - 30g sesame seeds
 - 50mL olive oil
 - 50mL water 
