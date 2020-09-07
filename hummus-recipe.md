@@ -38,5 +38,5 @@
 6. Finish with a leaf or two of parsley 
 
 ## Further work 
+- Try grill or oven for toasting sesame seeds
 - Garnishing can be better
-- Better food photography
